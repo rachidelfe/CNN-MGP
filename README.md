@@ -1,2 +1,1 @@
-# CNN-MGP
-gene prediction tool
+# Deployment-Deep-Learning-Model
